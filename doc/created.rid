@@ -1,0 +1,10 @@
+Sun, 17 Mar 2024 21:58:55 -0700
+Crawlers/amazon_scraper.rb	Sun, 17 Mar 2024 21:56:38 -0700
+Gemfile	Sun, 17 Mar 2024 21:58:39 -0700
+Gemfile.lock	Sun, 17 Mar 2024 21:58:45 -0700
+Helpers/helpers.rb	Sun, 17 Mar 2024 21:32:03 -0700
+Helpers/read_csv.rb	Sun, 17 Mar 2024 21:32:03 -0700
+Helpers/store_scrape.rb	Sat, 16 Mar 2024 11:14:08 -0700
+Objects/product.rb	Fri, 15 Mar 2024 21:40:28 -0700
+SearchResults/results.csv	Sun, 17 Mar 2024 21:46:44 -0700
+driver.rb	Sun, 17 Mar 2024 21:56:38 -0700
