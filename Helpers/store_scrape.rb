@@ -10,7 +10,7 @@ begin
   username = ENV['USER']
   password = ENV['PASSWORD']
   db_name = ENV['DB_NAME']
-  client = Mysql2::Client.new(:host => "#{host}", :username => "#{username}",:password  ,
+  client = Mysql2::Client.new(:host => "#{host}", :username => "#{username}",:password => "#{password}" ,
                               :database =>
     "db_name")
 

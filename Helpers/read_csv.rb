@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 require 'csv'
-require_relative 'product'
 def remove_quotes_from_csv(file_name)
   text = File.read(file_name)
   new_content = text.gsub('"', '')  # replace " with nothing
